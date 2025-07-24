@@ -51,4 +51,4 @@
 
 ---
 
-> "Code. Create. Collaborate. Let's build a better tomorrow, one line at a time." 💡
+> "Code. Create. Collaborate..." 💡
