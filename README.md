@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="color:#F7931E; font-family:cursive;">✨ Hii there, I'm <strong>Pratima Jain</strong> 👋</h1>
+<h1 style="color:#F7931E; font-family:cursive;">✨ Hii there!! I'm <strong>Pratima Jain</strong> 👋</h1>
 
 <p><strong>BCA Student | Aspiring WEB Developer | Python Developer | Power BI Explorer</strong></p>
 
