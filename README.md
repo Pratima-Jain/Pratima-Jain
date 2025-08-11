@@ -38,7 +38,7 @@
 
 
 ## 🏆 Achievements
-- 🌱 Part of the **Entrepreneurship Challenge** at E-Cell NTC NEF
+- 🌱 Part of the **Entrepreneurship Challenge** at E-Cell NEC
 - 🚀 Promoting entrepreneurship through creative design and outreach
 - 🎯 Focused on learning, growth and building real-world projects
 
