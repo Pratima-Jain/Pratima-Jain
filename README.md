@@ -48,7 +48,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratimajain06)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/pratima.06/)
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://x.com/PratimaJain20060)
-[![Email](https://img.shields.io/badge/Email-purple?logo=gmail&logoColor=white)](mailto:pratimajain1115@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:pratimajain1115@gmail.com)
+
 
 
 ---
