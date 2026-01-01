@@ -43,23 +43,23 @@
 
 ---
 
+## 🌐 Let's Connect  
+
+<p align="center">  
+  <a href="https://www.linkedin.com/in/pratimajain06"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>  
+  <a href="https://www.instagram.com/pratima.06/"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" /></a>  
+  <a href="https://x.com/PratimaJain2006"><img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" /></a>  
+  <a href="mailto:pratimajain1115@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>  
+</p>  
+
+---
+
 
 ## 🏆 Achievements  
 
 - 🌱 Part of the **Entrepreneurship Challenge** at *E-Cell NEC*  
 - 🚀 Promoting entrepreneurship through **creative design and outreach**  
 - 🎯 Focused on **learning, growth, and building real-world projects**  
-
----
-
-## 🌐 Let's Connect  
-
-<p align="center">  
-  <a href="https://www.linkedin.com/in/pratimajain06"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>  
-  <a href="https://www.instagram.com/pratima.06/"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" /></a>  
-  <a href="https://x.com/PratimaJain20060"><img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" /></a>  
-  <a href="mailto:pratimajain1115@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>  
-</p>  
 
 ---
 
