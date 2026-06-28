@@ -1,70 +1,104 @@
 <div align="center">
 
-<!-- Typing effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=✨+Hi+there!!+I'm+Pratima+Jain+👩‍💻;Aspiring+Web+Developer;Python+Developer;DevOps+Learner;Data+Visualization+Enthusiast" alt="Typing SVG" />
+<img src="assets/banner.png" width="100%" alt="Pratima Jain Banner"/>
+
+</div>
+
+
 
 ---
 
-<h3 align="center">💻 Turning <i>Ideas into Code</i> | Exploring <i>Web Development & DevOps</i> | Passionate Learner 🚀</h3>
+## 👩‍💻 About Me
 
-</div>  
+🎓 Pursuing **Bachelor of Computer Applications (BCA)** with a strong interest in **Data Analytics & Business Intelligence**.
 
----
+📊 Skilled in **Microsoft Excel, SQL, Power BI, Power Query, and Python** for data analysis.
 
-## 👩‍💻 About Me  
+📈 Passionate about transforming raw data into **interactive dashboards and meaningful business insights**.
 
-🎓 Pursuing **BCA** with a focus on *Software Development & IT Fundamentals*.  
-🌱 Learning **Python, JavaScript, HTML, CSS, Web Tech** & exploring **DevOps tools**.  
-📊 Passionate about **Data Visualization** *(Power BI, Tableau)* – turning data into insights.  
-✨ Currently a **Trainee @ E-Cell, IIT Bombay** – building teamwork & problem-solving skills.  
-🔍 Looking for **real-world projects, internships, collaborations**.  
-🎯 Long-term goal: Become a **skilled developer** & build impactful tech solutions.  
-🤝 Open to **networking, knowledge-sharing, and tech communities**.  
+🚀 Built hands-on projects using **Power BI, Excel, and SQL** through academic and self-driven learning.
+
+🌱 Currently learning **Advanced SQL, DAX, Python for Data Analytics, and Statistics**.
+
+🤝 Open to **Data Analyst internships, collaborations, and learning opportunities**.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### 🚀 Languages  
-<p align="center">  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
-</p>  
+### 📊 Data Analytics
 
-### ⚙️ Tools & Platforms  
-<p align="center">  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>  
-</p>  
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20Query-2E7D32?style=for-the-badge"/>
+</p>
 
----
+### 💻 Programming & Database
 
-## 🌐 Let's Connect  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-<p align="center">  
-  <a href="https://www.linkedin.com/in/pratimajain06"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>  
-  <a href="https://www.instagram.com/pratima.06/"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" /></a>  
-  <a href="https://x.com/PratimaJain2006"><img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" /></a>  
-  <a href="mailto:pratimajain1115@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>  
-</p>  
+### ⚙️ Tools & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
+## 📂 Featured Projects
 
-## 🏆 Achievements  
+📺 **Netflix Content Analysis Dashboard**
+- Built an interactive Power BI dashboard with KPIs, slicers, and drill-through analysis.
+- Cleaned and transformed data using Power Query.
 
-- 🌱 Part of the **Entrepreneurship Challenge** at *E-Cell NEC*  
-- 🚀 Promoting entrepreneurship through **creative design and outreach**  
-- 🎯 Focused on **learning, growth, and building real-world projects**  
+📈 **Excel Sales Dashboard**
+- Created an interactive sales dashboard using Pivot Tables, Power Query, and Lookup functions.
+- Identified sales trends and business insights.
+
+🗄️ **SQL Sales Data Management**
+- Performed CRUD operations and managed sales records using SQL.
+- Retrieved and organized data using SELECT, WHERE, and ORDER BY.
 
 ---
 
-<p align="center">⚡ <i>"Code. Debug. Create. Collaborate."</i> ⚡</p>  
+## 🌱 Currently Learning
 
-<p align="center">  
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20by%20Pratima%20Jain-F7931E?style=for-the-badge"/>  
+- 📊 Advanced Power BI (DAX)
+- 🐍 Python for Data Analytics
+- 🗃️ Advanced SQL
+- 📈 Data Storytelling & Business Intelligence
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratimajain06"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/pratima.06/"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/PratimaJain2006"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white" /></a>
+  <a href="mailto:pratimajain1115@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🎯 Goals
+
+- 📊 Build impactful Data Analytics projects
+- 🚀 Continuously improve my analytical and problem-solving skills
+- 🤝 Contribute to open-source and collaborate with the developer community
+- 💼 Secure a Data Analyst internship and grow into a Business Intelligence professional
+
+---
+
+<p align="center">💡 <i>"Turning raw data into meaningful decisions."</i></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20by%20Pratima%20Jain-F2C811?style=for-the-badge"/>
 </p>
